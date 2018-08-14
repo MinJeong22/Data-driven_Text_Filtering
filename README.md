@@ -8,4 +8,4 @@
 
 ## Author
 * Inggeol Lee/ [@ingulbull](https://github.com/ingulbull)
-* Minjeong Kim/ [@??ID](https://www.naver.com/)
+* Minjeong Kim/ [@MinJeong22](https://github.com/MinJeong22)
